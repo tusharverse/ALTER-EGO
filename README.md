@@ -201,7 +201,7 @@ git push origin feature/your-feature
 
 ## 👨‍💻 Author
 
-**Yash Singh**
+**Tushar Singh**
 🚀 Full-Stack MERN Developer
 💡 Passionate about AI + Scalable Systems
 
